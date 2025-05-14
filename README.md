@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nihar K</h1>
 <h3 align="center">Flutter Developer | C++ | Python | Firebase | Blockchain Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nihar-k066&label=Profile%20views&color=brightgreen&style=flat" alt="nihar-k066" />
-</p>
+
 
 ---
 
