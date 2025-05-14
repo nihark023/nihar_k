@@ -46,7 +46,6 @@
 ### 📫 Contact Me
 
 - 📧 Email: niharknihark@gmail.com  
-- 📱 Phone: +91-7676362854  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/nihar-k-953655229)  
 - 🌐 [GitHub](https://github.com/nihar-k066)
 
